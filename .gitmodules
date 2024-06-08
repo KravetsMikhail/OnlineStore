@@ -1,0 +1,3 @@
+[submodule "OnlineStoreDocs"]
+	path = OnlineStoreDocs
+	url = https://github.com/KravetsMikhail/OnlineStoreDocs.git
